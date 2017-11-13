@@ -22,6 +22,10 @@ That’s analog. Try digital:
 
 Arduino and many other microcontrollers (and early computers) were built around an 8 bit bus (sort of like an 8 lane highway)
 
+- How would you exchange numbers greater than 256?
+- How would you exchange words?
+- What about non-integers (numbers with fractional parts)?
+
 Examples of ways to represent information with 8 bit:
 
 - Letters using the [ASCII code](http://www.asciitable.com/)
